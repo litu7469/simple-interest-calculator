@@ -68,7 +68,7 @@ Please read our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to understand the stand
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Author
-[Your Name]
+Md. Latiful Islam
 
 ## Project Purpose
 This project was created as part of a micro-finance initiative to empower low-income individuals by providing transparent interest calculations.
